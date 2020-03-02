@@ -1,0 +1,2 @@
+# akos
+gyakorlat
